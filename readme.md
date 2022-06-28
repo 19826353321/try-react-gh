@@ -6,3 +6,6 @@
 工程化vite配置 将index.html与assets的关系配置成./
 github中有好多的项目
 /根路径
+
+- github中上传了源码
+- npm i gh-pages 专门负责dist目录的在线访问
